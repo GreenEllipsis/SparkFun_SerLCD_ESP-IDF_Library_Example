@@ -1,0 +1,3 @@
+[submodule "components/SparkFun_SerLCD_ESP-IDF_Library"]
+	path = components/SparkFun_SerLCD_ESP-IDF_Library
+	url = https://github.com/GreenEllipsis/SparkFun_SerLCD_ESP-IDF_Library
